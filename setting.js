@@ -16,7 +16,7 @@ const payment = {
     }
 }
 
-const apikeyAtlantic = "tempelapikeymu"
+const apikeyAtlantic = "S1K8D7f1wTkyonWsjyjVXVHpcygEUrdJCgVGaF581zUCsyqYXhtoaqbTpGYp0Fx7D1o5i01maqVhHRImdK6bjD7hbtKCETH7aDU4"
 //AKUN H2H 
 //https://atlantich2h.com (DISINI KALIAN BISA BUAT PROVIDER NYA)
 
