@@ -23,8 +23,8 @@ const apikeyAtlantic = "tempelapikeymu"
 //BUAT AKUN DISINI DULU
 //https://m.atlantic-pedia.co.id/
 
-  global.ownerNumber = "62xxx@s.whatsapp.net" //ganti nomor mu yang mau dijadikan owner
-  global.kontakOwner = "62xxx" //ganti nomor mu yg mau dijadikan kontak owner
+  global.ownerNumber = "6289510340264@s.whatsapp.net" //ganti nomor mu yang mau dijadikan owner
+  global.kontakOwner = "6289510340264" //ganti nomor mu yg mau dijadikan kontak owner
   global.untung = "1"
   //Ini profit yg kamu dapat, 1 = 1% maka harga akan meningkat 1%
   //Isi sesuai kebutuhan 
